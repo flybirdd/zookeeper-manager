@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Application",
+            "request": "launch",
+            "mainClass": "org.gogoflybird.zookeeper.manager.api.Application",
+            "projectName": "zookeeper-manager-api"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Application",
+            "request": "launch",
+            "mainClass": "org.gogoflybird.zookeeper.manager.Application",
+            "projectName": "zookeeper-manager-api"
+        }
+    ]
+}
